@@ -1,0 +1,124 @@
+/* CSS of the body */
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    font-family: 'Didact Gothic', sans-serif; 
+
+}
+
+/* CSS of profile picture of Deepti Banerjee */
+.ProfilePic {
+    width: 450px;
+    float: right;
+    margin-right: 20px;
+}
+
+#Profile {
+    margin-top: 112px;
+}
+
+/* CSS of the ID- MainHeading */
+#MainHeading {
+
+    font-family: 'Righteous', cursive;
+    font-size: 50px;
+    font-weight: 200;
+    color: rgb(77, 75, 75);
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+/* CSS of the About me paragraph */
+.Aboutme {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: rgb(77, 75, 75);
+    margin-left: 20px;
+    width: 46%;
+    margin-top: 30px;
+    line-height: 30px;
+}
+
+/* CSS of the heading "I GOT THE SKILL" */
+.Skills {
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    color: rgb(77, 75, 75);
+    margin-right: 50px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+/* CSS of the BarChart representation */
+.BarChart {
+    width: 450px;
+    float: left;
+    margin-top: -50px;
+    margin-left: 20px;
+}
+
+/* CSS of the skills paragraph */
+.SkillParagraph {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+    color: rgb(77, 75, 75);
+    margin-left: 649px;
+    margin-top: 50px;
+    margin-right: 43px;
+    text-align: right;
+}
+
+/* CSS of the Subhead "Graphic Designer */
+.Subhead {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(77, 75, 75);
+    margin-left: 20px;
+    margin-top: 2px;
+    color: rgb(239, 151, 44);
+}
+
+/* CSS of the What excites me heading */
+.th1{
+    padding: 40px;
+    width: 50;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(77, 75, 75);
+
+}
+
+/* CSS of the Pet-peeves heading */
+.th2{
+    padding: 0px;
+    width: 45%;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(77, 75, 75);
+    
+
+}
+
+/* CSS of the Interest paragraph */
+
+.td1{
+    padding: 50px;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    color: rgb(77, 75, 75);
+}
+
+/* CSS of the Pet-peeves paragraph */
+.td2{
+    padding: 60px;
+    padding-right: 10px;
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 20px;
+    font-weight: 150;
+    color: rgb(77, 75, 75);
+}

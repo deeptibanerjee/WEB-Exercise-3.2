@@ -1,0 +1,133 @@
+/* CSS of Cover Image */
+#cover {
+    width: 700px;
+    margin-top: -22px;
+    margin:none
+    
+    }
+    
+    /* CSS of Introduction */
+    #introtable{
+        width:100%;
+        margin-left:none
+    }
+    
+    /* CSS of Introduction Image */
+    #image-col{
+        width: 60%
+    }
+    
+    /* CSS of the Intro table headings */
+    #table{
+       vertical-align: bottom;
+    }
+    
+    /* CSS of the "Hello" text */
+    #main{
+        font-family: 'Righteous', cursive;
+        font-size: 80px;
+        font-weight: 200;
+        color: rgb(255, 206, 91);
+        text-align: right;
+        margin-top: 178px;
+        float: right;
+        margin-right: 40px;
+    }
+    /* CSS of the "I am Deepti Banerjee" text */
+    #name{
+        font-family: 'Righteous', cursive;
+        font-size: 50px;
+        font-weight: 200;
+        color: rgb(177, 21, 117);
+        text-align: right;
+        margin-top: -83px;
+        float: left
+        
+    }
+    /* CSS of the designation text */
+    #designation{
+        font-family: 'Righteous', cursive;
+        font-size: 20px;
+        color: rgb(121, 116, 116);
+        text-align: right;
+        margin-top: -44px;
+        margin-right: 26px;
+        float: right;
+        
+    }
+    /* CSS of the "why to choose me?" text */
+    #Head{
+        font-family: 'Righteous', cursive;
+        font-size: 50px;
+        font-weight: 200;
+        color: rgb(121, 116, 116);
+        text-align: right;
+        float: right;
+        margin-top: 204px;
+    }
+    /* CSS of the bottom section container */
+#container{
+    min-height: 100vh;
+    width: 100%;
+    margin: auto;
+    padding: 40px;
+    align-items: center;
+}
+/* CSS of the section */
+.third{
+    width: 33.33%;
+    padding: 40px;
+    
+}
+/* CSS of the "col" class */
+.col{
+    float: left;
+    padding: 20px;
+    
+   
+}
+/* CSS of the hero id */
+.hero{
+    width: 150px;
+    margin-left: 118px;
+    margin-top: 50px;
+    
+}
+/* CSS of the "subhead" class */
+.subhead{
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(121, 116, 116);
+    text-align:center
+}
+/* CSS of the left Paragraph of the bottom section */
+#leftP{
+    
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: rgb(121, 116, 116);
+    text-align: justify;
+    padding: 23px;
+}
+/* CSS of the center Paragraph of the bottom section */
+#centerP{
+    
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: rgb(121, 116, 116);
+    text-align: justify;
+    padding: 23px;
+}
+/* CSS of the right Paragraph of the bottom section */
+#rightP{
+    
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: rgb(121, 116, 116);
+    text-align: justify;
+    padding: 23px;
+}

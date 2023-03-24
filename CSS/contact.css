@@ -1,0 +1,22 @@
+
+/* CSS of the hover effect of header content */
+.Header a:hover {
+    background: #ddd;
+    color: black;
+    transition: .5s;
+    border-radius: 10px 10px 0 0;
+}
+
+/* CSS of the fixed hover effect */
+.fixedhover{
+    background: #7604f8;
+    border-radius: 10px 10px 0 0;
+}
+
+form{
+    width: 45%;
+    margin-top: 10px;
+    float: right;
+    
+
+}
