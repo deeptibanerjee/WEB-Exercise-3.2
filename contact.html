@@ -12,6 +12,7 @@
 
     <!--This is the link to css-->
     <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="CSS/contact.css">
 
     <meta charset="UTF-8">
     <meta name="description" content="Contact page of Deepti Banerjee">
@@ -31,30 +32,27 @@
             <!--This is the ending of the header-->
         </nav>
     </header>
-    <main >
         <section>
-            <p>
-                Lets's chat. <br> Tell me about your cocern.
+            <p id="tell">
+                Are you ready for a design that <br>gets you noticed? <br>
             </p> 
-            <p>
+            <p id="subhead">
                 Lets's create something better together!
             </p>  
+            </section>
 
-    <h1>Contact me</h1>
-    <form action="mailto:https://mail.google.com/mail/u/0/#inbox">
-        <label> First Name </label>
-        <input type="text" placeholder="Enter First Name" required> <br>
-
-        <label> Last Name </label> 
-        <input type="text" placeholder="Enter Last Name" required> <br>
+    <h1 id="contactme">Contact me</h1>
+    <form action="mailto:https://mail.google.com/mail/u/0/#inbox" id="contact-form" >
+        <label> Name </label>
+        <input type="text" placeholder="Enter First Name" required> <br><br>
 
         <label> E-mail ID </label> 
-        <input type="text" placeholder="Enter your E-mail id" required> <br>
+        <input type="text" placeholder="Enter your E-mail id" required> <br><br>
 
         <label> Your Telephone (*Optional) </label>
-        <input type="tel" placeholder="Your Telephone"> <br>
+        <input type="tel" placeholder="Your Telephone"> <br><br>
 
-        <label> How did you learn about me? </label>
+        <label> How did you learn about me? </label> 
 
         <select>
             <optgroup label="media">
@@ -65,20 +63,19 @@
 
             </optgroup>
 
-        </select> <br>
+        </select> <br><br>
 
         <label> Send me a message </label> <br>
         <textarea type="message" placeholder="Write something..">
          
-        </textarea><br>
+        </textarea><br><br>
 
     
 
-        <input type="submit" value="Submit"> 
+        <input type="submit" value="Submit" id="submit"> 
      
       </form>
     
-    </main>
 
 
 

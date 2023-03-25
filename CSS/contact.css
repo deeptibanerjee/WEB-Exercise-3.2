@@ -1,22 +1,41 @@
-
-/* CSS of the hover effect of header content */
-.Header a:hover {
-    background: #ddd;
-    color: black;
-    transition: .5s;
-    border-radius: 10px 10px 0 0;
+#tell{
+    margin-top: 250px;
+    margin-left: 40px;
+    font-size: 40px;
+    font-family: 'Righteous', cursive;
+    color: rgb(102, 99, 99);
+}
+#subhead{
+    margin-top: 40px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+    color: rgb(239, 151, 44);
 }
 
-/* CSS of the fixed hover effect */
-.fixedhover{
-    background: #7604f8;
-    border-radius: 10px 10px 0 0;
-}
-
-form{
+#contact-form{
     width: 45%;
-    margin-top: 10px;
+    margin-top: -200px;
     float: right;
+    font-family: 'Righteous', cursive;
+    color: rgb(143, 142, 142);
+   
     
-
+}
+#contactme{
+    width: 45%;
+    margin-top: -280px;
+    float: right;
+    font-family: 'Righteous', cursive;
+    color: rgb(239, 151, 44);
+    font-size: 30px;
+}
+#submit{
+    background-color: #334acb;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Righteous', cursive;
 }

@@ -10,6 +10,13 @@ html {
     scroll-padding-top: 80px;
 }
 
+body {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    font-family: 'Didact Gothic', sans-serif; 
+
+}
+
 /* CSS of the header */
 .Header {
     overflow: hidden;
@@ -42,7 +49,7 @@ html {
 
 /* CSS of the fixed hover effect */
 .fixedhover{
-    background: #7604f8;
+    background:#334acb;
     border-radius: 10px 10px 0 0;
 }
 
@@ -113,17 +120,3 @@ html {
     color: rgb(209, 209, 209);
 }
 
-/* CSS of the facebook icon */
-#facebook{ 
-    width: 20px;
-}
-
-/* CSS of the linkedin icon */
-#linkedin{
-    width: 20px;
-}
-
-/* CSS of the Gmail icon */
-#email{
-    width: 20px;
-}

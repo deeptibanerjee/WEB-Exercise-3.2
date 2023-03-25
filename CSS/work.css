@@ -1,0 +1,35 @@
+.gallery{
+    width: 20%;
+    float:left;
+    padding: 16px;
+    margin: 1px;
+    margin-top: 10px;
+}
+.gallery img{
+    width:100%
+}
+.gallery p{
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    font-weight: 200;
+    color: rgb(121, 116, 116);
+}
+.gallery img:hover{
+    filter: sepia(50%);
+}
+.gallery:hover{
+    background-color: rgb(239, 223, 204);
+    transition: 1.5s;
+}
+.work{
+
+    width: 100%;
+    margin-top: 90px;
+    font-family: 'Righteous', cursive;
+    font-size: 50px;
+    font-weight: 200;
+    color: rgb(77, 75, 75);
+    width: 100%;
+    text-align: center;
+}
