@@ -1,7 +1,7 @@
 /* CSS of Cover Image */
 #cover {
-    width: 700px;
-    margin-top: -22px;
+    width: 100%;
+    margin-top: 34px;
     margin:none
     
     }
@@ -9,12 +9,13 @@
     /* CSS of Introduction */
     #introtable{
         width:100%;
-        margin-left:none
+        margin-left:none;
+        background-color: #feffea;
     }
     
     /* CSS of Introduction Image */
     #image-col{
-        width: 60%
+        width: 50%
     }
     
     /* CSS of the Intro table headings */
@@ -29,9 +30,10 @@
         font-weight: 200;
         color: rgb(255, 206, 91);
         text-align: right;
-        margin-top: 178px;
+        margin-top: -372px;
         float: right;
         margin-right: 40px;
+        width: 100%;
     }
     /* CSS of the "I am Deepti Banerjee" text */
     #name{
@@ -40,8 +42,9 @@
         font-weight: 200;
         color: rgb(177, 21, 117);
         text-align: right;
-        margin-top: -83px;
-        float: left
+        margin-top: -287px;
+        margin-right: 20px;
+        
         
     }
     /* CSS of the designation text */
@@ -50,7 +53,7 @@
         font-size: 20px;
         color: rgb(121, 116, 116);
         text-align: right;
-        margin-top: -44px;
+        margin-top: -200px;
         margin-right: 26px;
         float: right;
         
@@ -58,25 +61,30 @@
     /* CSS of the "why to choose me?" text */
     #Head{
         font-family: 'Righteous', cursive;
-        font-size: 50px;
+        font-size: 41px;
         font-weight: 200;
         color: rgb(121, 116, 116);
         text-align: right;
-        float: right;
-        margin-top: 204px;
+        margin-top: -90px;
+        /* margin-right: 34px; */
+        background-color: white;
+        /* padding-right: 25px; */
+        padding-top: 38px;
+        text-align: center;
     }
     /* CSS of the bottom section container */
 #container{
-    min-height: 100vh;
+    min-height: 85vh;
     width: 100%;
     margin: auto;
-    padding: 40px;
+    padding-left: 30px;
     align-items: center;
+    background-color: #343842;
 }
 /* CSS of the section */
 .third{
-    width: 33.33%;
-    padding: 40px;
+    width: 32.33%;
+    padding: 100px;
     
 }
 /* CSS of the "col" class */
@@ -89,8 +97,8 @@
 /* CSS of the hero id */
 .hero{
     width: 150px;
-    margin-left: 118px;
-    margin-top: 50px;
+    margin-left: 106px;
+    margin-top: 10px;
     
 }
 /* CSS of the "subhead" class */
@@ -98,8 +106,8 @@
     font-family: 'Righteous', cursive;
     font-size: 30px;
     font-weight: 200;
-    color: rgb(121, 116, 116);
-    text-align:center
+    color: rgba(239, 166, 56, 0.849);
+    text-align:center;
 }
 /* CSS of the left Paragraph of the bottom section */
 #leftP{
@@ -107,9 +115,9 @@
     font-family: 'Didact Gothic', sans-serif;
     font-size: 18px;
     font-weight: 200;
-    color: rgb(121, 116, 116);
+    color: rgb(248, 246, 211);
     text-align: justify;
-    padding: 23px;
+    
 }
 /* CSS of the center Paragraph of the bottom section */
 #centerP{
@@ -117,9 +125,9 @@
     font-family: 'Didact Gothic', sans-serif;
     font-size: 18px;
     font-weight: 200;
-    color: rgb(121, 116, 116);
+    color: rgb(248, 246, 211);
     text-align: justify;
-    padding: 23px;
+    
 }
 /* CSS of the right Paragraph of the bottom section */
 #rightP{
@@ -127,7 +135,7 @@
     font-family: 'Didact Gothic', sans-serif;
     font-size: 18px;
     font-weight: 200;
-    color: rgb(121, 116, 116);
+    color: rgb(248, 246, 211);
     text-align: justify;
-    padding: 23px;
+    
 }
